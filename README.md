@@ -1,5 +1,5 @@
-# readings
-Inspirational reads over the years
+# reads
+Inspirational reads over the years.
 
 ## Life
 * [I am rich and have no idea what to do with my life](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
